@@ -2,7 +2,7 @@
 
 Pipeline de preprocessament de dades RNA-seq paired-end, des de fitxers FASTQ fins a una matriu de counts llesta per a anàlisi diferencial amb DESeq2.
 
-## Contingut
+## Contingut 
 
 ```
 rnaseq_pipeline/
