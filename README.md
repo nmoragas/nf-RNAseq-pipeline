@@ -22,7 +22,7 @@ rnaseq_pipeline/
 
 ---
 
-## Requisits
+## Requisits 
 
 - [Nextflow](https://www.nextflow.io/) >= 23.04
 - [Singularity](https://sylabs.io/singularity/) o Docker
