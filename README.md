@@ -4,7 +4,7 @@ A Nextflow DSL2 pipeline for bulk RNA-seq preprocessing — from raw paired-end 
 
 ---
 
-## Pipeline overview  
+## Pipeline overview   
 
 ```
 fastq.gz (paired-end)
