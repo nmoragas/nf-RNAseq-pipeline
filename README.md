@@ -3,7 +3,7 @@
 A Nextflow DSL2 pipeline for bulk RNA-seq preprocessing — from raw paired-end FASTQ files to a gene-level counts matrix ready for differential expression analysis with DESeq2 or edgeR.
 
 ---
- 
+  
 ## Pipeline overview           
   
 ```
